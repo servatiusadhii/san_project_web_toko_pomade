@@ -1,4 +1,4 @@
-# Try Demo this website at : http://www.pomade-store.epizy.com/
+# Try Demo this website at : <http://www.pomade-store.epizy.com/>
 # Built for client assignment
 
 ###################
